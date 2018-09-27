@@ -22,3 +22,10 @@
 - Bug fix
   - Failure to modify data over past 3 months
   - Failure to modify after duplicating
+
+## Tech features
+
+- React
+  - Context API
+  - Styled-Components
+  - HOC for ClickOutside
